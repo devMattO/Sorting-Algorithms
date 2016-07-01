@@ -19,3 +19,5 @@ var bubbleSort = function( input ){
   }
   return input;
 };
+
+module.exports = bubbleSort;
